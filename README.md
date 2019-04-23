@@ -1,1 +1,1 @@
-# hello-world\nNice to meet you.
+# hello-world
